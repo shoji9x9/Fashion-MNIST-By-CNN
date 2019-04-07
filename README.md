@@ -9,7 +9,7 @@ This is just a example to train Fashion-MNIST by Convolutional Neural Network fo
 This dataset can be found [here](https://github.com/zalandoresearch/fashion-mnist).
 
 # Model
-4 Layer CNN with Maxpooling, Batch Normalization and Dropout.
+4 Layer CNN with Max Pooling, Batch Normalization and Dropout.
 
 # Accuracy
 91.3% after training in 10 epochs.
